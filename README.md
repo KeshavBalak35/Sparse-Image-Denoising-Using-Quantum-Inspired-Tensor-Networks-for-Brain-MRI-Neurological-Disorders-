@@ -1,1 +1,1 @@
-# Sparse-Image-Denoising-Using-Quantum-Inspired-Tensor-Networks-for-Brain-MRI-Neurological-Disorders-
+# Brain MRI Classification Using a Quantum-Inspired Tensor Network
